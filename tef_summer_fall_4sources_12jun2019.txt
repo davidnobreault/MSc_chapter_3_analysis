@@ -1,0 +1,5 @@
+Source	Meand13C	SDd13C	Meand15N	SDd15N
+berry	2	0.682	3	1.02
+m.invertebrate	1	0.341	3	1.02
+salmon	1	0.341	2	0.682
+t.fauna	2	0.682	3	1.02
